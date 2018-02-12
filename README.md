@@ -5,10 +5,10 @@
 ## Opgavebeskrivelse
 Vi danner 3-4 virksomheder, som hver får til opgave at fremstille en prototype på et website til en frisør.
 Hver virksomhed skal sammen sætte et hold bestående af
-•	Projektleder med kundekontakt
-•	Frontend udviklere til html og CSS, samt javascript
-•	Backend udviklere til routes, json-modules og database-modules
-•	Tester
+- Projektleder med kundekontakt
+- Frontend udviklere til html og CSS, samt javascript
+- Backend udviklere til routes, json-modules og database-modules
+- Tester
 
 Holdet finder en leder som efterfølgende deltager på et kundemøde.
 
